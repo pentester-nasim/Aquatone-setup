@@ -1,0 +1,8 @@
+go to this link: https://github.com/michenriksen/aquatone/releases
+go to Assets section : download first one for linux 
+extract aquatone files
+open this directory /Downloads/opt
+then run this command: 
+I)sudo mv aquatone /usr/bin/
+II) aquatone --help
+usage: cat subdomains.txt | aquatone {take screenshot}
